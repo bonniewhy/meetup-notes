@@ -1,0 +1,127 @@
+KANSAS CITY WOMEN IN TECHNOLOGY: February Tech Talk -- LinkedIn and Resume Tips
+________________________________________________________________________________
+
+KCWiT PROGRAMS --
+    -- Coder Dojo: Kids Learning Scratch!
+        -- Volunteer & Mentor opportunities.
+        -- Meets 2nd Saturday and 4th Saturday of each month.
+        -- Any background. Learn new skills mentoring!
+
+    -- Coding + Cupcakes: Make coding exciting for girls!
+        -- Building a website for a cupcake shop. And eating cupcakes.
+        -- Also, Jewelbots, which are apparently the best friendship bracelet ever? (Not sure. More research needed. Haha.)
+        -- Bring your daughter. Moms, Dads, and Guardians welcome!
+        -- Become a mentor.
+        -- Apply for open roles.
+        -- Look online for schedule and how to apply.
+
+    -- Coding + Cocktails: For adults!
+        -- At VML
+        -- Jump in whenever you feel comfortable. (The topics kind of build on themselves so you can see where it's starting and jump in there if you wanna start from the beginning.)
+        -- You can also mentor.
+        -- For people new to coding as well.
+________________________________________________________________________________
+
+CERNER --
+    -- The meeting space tonight.
+    -- Builds healthcare software and devices.
+    -- A project that one of the Cerner employees is working on is called "Healthy Intent" which is a Big Data project.
+________________________________________________________________________________
+
+SPEAKERS --
+    -- Kendra O'Sullivan: Kforce Inc
+    -- Crystal Coates: Yoh
+    -- Lacey Cherry: TriCom Technical Services
+    -- Emma Conner: TEKsystems
+    -- Maggie Goetz: Apex Systems
+________________________________________________________________________________
+
+LINKEDIN ADVICE --
+    How are recruiters utilizing LinkedIn to find candidates?
+        -- Keywords from the profiles.
+        -- Portfolio site.
+        -- Cross reference to see what's more current than their resume and who they're connected to.
+        -- Understand what you do. Make it specific! LinkedIn doesn't have to just be a resume.
+        -- Some of the recruiters use LinkedIn exclusively to find people.
+        -- Make sure that your "Open to new opportunities" and "Most likely to respond" boxes are checked.
+    
+    What will make you stand out?
+        -- Skill set (knowing what you do)
+        -- Personality can come across in summaries, etc. Will help to sort you into a good environment.
+        -- Fill it all out! Should be different than your resume.
+        -- Technologies, when, and how long you've been doing it, and where.
+        -- Resume information and LinkedIn information should match. (Like dates, jobs, etc.)
+        -- Professional photo. (Not just a selfie!)
+        -- Relevant titles to match what you've done ("Systems Analyst" or whatever)
+        -- Being approachable. ("I am actively looking...")
+    
+    What about having little to no experience?
+        -- Find a way to get noticed (mentor, TF)
+        -- Be specific about what you've done and with what is going on. They don't know what specfically you've done, so putting LC101 or whatever else without listing anything about it WILL NOT HELP.
+        -- GitHub
+        -- When speaking of projects / mentoring / LaunchCode, talk about what you've learned, how, when. Put down the program info so the recruiter knows what you're talking about.
+        -- Find a non-profit to volunteer services for! More project resume experience.
+        -- Network!! More meetups.
+        -- They wanna help you find jobs. <3
+        -- The shortage is real! People are taking side projects and programs as real experience. It holds a lot of weight.
+        -- Have a project resume!! Looks a lot more significant.
+        -- Getting involved in LinkedIn. Posting and responding. When you comment, that can show up on other people's dashboards.
+        -- Adding a summary so people can tell what you're looking for in a job.
+        -- Ask for help! Join the Slack. Everyone wants to help, so reach out!
+________________________________________________________________________________
+
+RESUME ADVICE --
+    One page, twelve pages, what's the standard?
+        -- Appropriate amount of experience. Don't dumb it down to one page if you have 2 - 3 pages worth of experience to talk about. (LC grad might be fine with one page since we're just starting out.)
+        -- $50,000 per page is a good rule of thumb. If you're applying for a job that is over $50,000, you should have more than one page.
+        -- Contract work! Independent work! Clients and projects.
+        -- Don't make it twelve pages..........
+        -- If you are touching technology, it needs to be listed somewhere on the resume besides just the top.
+        -- If you don't have the right buzz words, you go in the wrong pile.
+        -- Shorter ones can be supplemented with GitHub and online portfolios.
+        -- Skills on top. Being integrated throughout the resume.
+        -- 4 pages or less, for some.
+        -- Multilingual is good!
+        -- If you put it on there, you better be able to talk about it!
+        
+    Do you need a GPA on the resume?
+        -- GPA is basically irrelevant unless it's very good from an ivy league... Could be on a case by case basis.
+        -- Experience over college degree.
+        
+    For those switching careers or without a degree / relevent degree:
+        -- Talk about the fundamentals. Talk about what you understand and why and how. Show off HOW you know and understand the fundamentals.
+        -- Put the tech stuff up front.
+        -- Prove that you're worth the chance!!
+        -- Team focused / leadership / initiative projects could be relevant from another career path to talk about if you have them.
+        -- No gaps too large, so add your unrelated jobs.
+        -- Talking is a very good supplement to your resume, of course.
+        -- Meet with your recruiter. They will turn around and tell your story to potential hiring people. Sit down and talk to them face to face. Ask them questions. AGAIN, they're there to help!
+
+________________________________________________________________________________
+
+OPEN QUESTION TIME --
+    If you have a lot of job turnover / shorter term jobs, how do you get the conversation?
+        -- Find the right recruiter. They will be out there. Some one that's referred to you by someone else who's had a good experience with a recruiter. There are a lot of great ones out there and they are in your corner! They can back you up because of their relationship with hiring managers.
+        -- Explain why you made that move... "When I made this move, I got so much more responsibility..."
+
+    Miscellaneous Stuff
+        -- If you're gonna put JavaScript on your resume, know what framework to talk about...
+        -- Job boards will take you applying to 27 different jobs before you even get an interview. Most of the jobs are not posted on a public space. Referrals / recruiters is where it's at.
+        -- Have 3 professional references ready! (If someone has recommended you on LinkedIn, you can start there!)
+    
+    Mistakes!
+        -- Tons of tech at the top and no where else in the resume.
+        -- Having a resume that's not easily changeable because of the format.
+        -- Email address that you're embarrassed by. Create a professional one.
+        -- Use a Word doc, not a PDF! The auto formatting thing that most companies use can read your format wrong and make your name "Cerner" or your social security number or something strange.
+        -- They use ATS -- applicant tracking system, which takes your resume and automatically places the information in an easily searchable format so people can find you easier. Keywords in your resume!
+        -- Header is not necessary. Nothing too fancy. Recruiters will often reformat everything anyway.
+        -- Whether to make a creative / non-creative resume really depends on what kind of job you want to have.
+        -- Call up recruiter and ask how they like them formatted if you're at a loss.
+        -- Don't need images + pictures / special symbols cause they're gonna remove it anyway.
+        -- Some recruiters find fun resumes as useless. Some people love them. However, you're more likely to get noticed by your skills and not a flashy resume. So, don't worry so much about the formatting. Don't use special fonts, either. Some computers don't have them, so it'll show up as boxes or weird symbols and be unreadable.
+
+
+
+
+    
