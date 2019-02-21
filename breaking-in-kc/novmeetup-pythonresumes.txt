@@ -1,0 +1,52 @@
+-- DOCKER
+    -- Is like GitHub for your virtual environments to make it easier to work across different platforms.
+    -- Makes it possible for you not to bloat up your computer with a ton of installations and programs as it does all of that remotely.
+    -- Consistent environments are awesome!
+    -- CAN REALLY HELP SAVE YOUR COMPUTER FROM BEING BOGGED DOWN BY A BUNCH OF CRAZY INSTALLS OF DIFFERENT PROGRAMS...
+    -- 
+
+-- There's also this thing called Vagrant.
+
+You should really learn at least one of these for one the job shiiiit.
+
+-- RESUMES
+    -- Have a more specific goal of what you want to do, so when you go in for the job they are like "Great, they have an actual aspiration."
+    -- You should be at least a little invested into the company you're applying at.
+    -- Don't be afraid of what you're putting on the resume.
+    -- Tailor it as much as you can to what your goal is for what job you ultimately want to have.
+    -- You want your resume to show not only your skills, but also how you apply the skills.
+    -- Git Repo is so important.
+    -- If your git repo shows you never went out and tried stuff on your own, that won't be very helpful. (You're already on this...)
+    -- Pick something you're interested in and just TRY IT!
+    -- Where have you worked, how long and did you bounce around a lot (are you hard to work with, why did you leave). These are the questions that someone will have if you're just trying to start out getting into the industry and don't have a lot of professional experience.
+    -- Shoooooooow!! Work on your online portfolio / resume. For sure...
+    -- Make sure you know where you're putting your resumes in. Know about the company and what they do, and how you'd fit in.
+    -- If you're gonna put stuff on your GitHub, make sure it's good.
+        -- Doing stuff that's relevant to what's going on the sphere.
+        -- Doing stuff that's relevant to what you want to do.
+        -- Your personality will totally win them over.
+            -- Watch for what they say about the past places you worked for. If you left because you got fired or whatever, it's not the end of the world. Don't say you didn't get along with management... Make sure you know why you left...
+        -- DON'T LIE!!
+        -- Don't worry about your past, if you have the work ethic and the personality you'll have a great chance to get there.
+    -- First impressions --
+        -- SKILLS -- frameworks, tools, languages, operating systems, show you know the concepts and what they are, clearly showcase that you can categorize your skillsets.
+        -- Don't add how you can use Microsoft Office and shit.
+    -- They wanna see a list of skills somewhere, then they need to be able to see that list of skills in your projects / work experience. If you don't have something showing that, then they don't believe you.
+    -- You can use your personal website!!
+    -- Keep your resume updated. Add it to your monthly stuff. Probably December, really with the other computer maintence stuff.
+    -- Google it!! "Awesome developer resume" or whatever.
+    -- OPEN SOURCE!!
+    -- Bold things to make them stand out!
+    -- FORMATTING --
+        -- Not that big of a deal if you're going thruogh a head hunter or an agency cause they'll reformat it for you.
+        -- Front end should have some aspect of design. It's a first impression!
+    -- Have a couple of different configurations of your resume so that you can cater it to the job.
+        -- FRONT END
+        -- BACK END
+        -- ETC
+    -- As long as you're honest and it's worded very well, you've done your best to do what you can to get that job.
+    -- IF YOU DON'T GET THE JOB, DON'T TAKE IT PERSONAL, just move on to the next one.
+    -- 
+
+
+-- Once you have your resume, don't be afraid to hit everyone up on Slack about it!
